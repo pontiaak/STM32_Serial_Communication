@@ -1,0 +1,16 @@
+Sonia/Debug/*
+Sonia/Debug
+Debug/*
+nanopb/examples
+nanopb/generator
+nanopb/generator-bin
+nanopb/tests
+Sonia/nanopb/examples
+Sonia/nanopb/generator
+Sonia/nanopb/generator-bin
+Sonia/nanopb/tests
+nanopb/tests/*
+Sonia/nanopb/examples/*
+Sonia/nanopb/generator/*
+Sonia/nanopb/generator-bin/*
+Sonia/nanopb/tests/*

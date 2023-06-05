@@ -1,0 +1,1 @@
+python generator/nanopb_generator.py generator-bin/proto_files/test.proto
